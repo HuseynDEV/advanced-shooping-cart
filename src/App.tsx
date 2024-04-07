@@ -18,6 +18,7 @@ function App() {
         <Route path="/abbout" element={<About />} />
       </Routes>
     </Container>
+       djhvdbv
    </ShoppingCartProvider>
   );
 }
